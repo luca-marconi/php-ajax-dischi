@@ -58,7 +58,7 @@ main .container-cards .card {
 }
 
 main .container-cards .card .image {
-  width: 80%;
+  width: 90%;
   height: 60%;
 }
 
@@ -69,6 +69,7 @@ main .container-cards .card .image img {
 main .container-cards .card .info {
   width: 80%;
   height: 30%;
+  padding-top: 35px;
   display: flex;
   flex-direction: column;
   justify-content: center;
@@ -77,4 +78,3 @@ main .container-cards .card .info {
 }
 
 /* FOOTER */
-
