@@ -1,0 +1,12 @@
+@import '_variables';
+@import '_mixins';
+/* RESET */
+@import "_reset";
+/* TAG GENERICI */
+@import "_common";
+/* HEADER */
+@import "partials/_header";
+/* MAIN */
+@import "partials/_main";
+/* FOOTER */
+@import "partials/_footer";
